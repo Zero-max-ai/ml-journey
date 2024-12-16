@@ -48,6 +48,7 @@ cluster map is a type of heatmap that perform hierarchical clustering, where the
 pair grid is a pair plot type technique that goes beyond the pairplot and provide the more customization to the analyst.
 
 - facet grid
-
+facet grid is a technique that know for the low level customization, and use multiple subset of the same dataset to find the relationship between these variables.
 
 - regression plots
+regression plot is a technique where we plot the datapoints on to the graph and check if the datapoints and find relationship between two continuous variablesis on the best fit line or not.
