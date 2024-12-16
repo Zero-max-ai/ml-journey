@@ -30,3 +30,24 @@ pairplot is a technique where we visualize the comparision between each individu
 rugplot is a technique where we visualize the datapoints on graph using sticks, and where ever the most points are situated the the trends goes that side.
 
 
+### Categorical Plotting
+
+#### Bar, Count, Violin, Strip, Swarm, Box
+
+### Matrix Plotting
+
+### Heatmaps, cluster map, pair grid, facet grid, regression plots
+
+- heatmaps
+heatmap is a technique where we visualize the datapoints by converting them into numerical value and then use the color intensity to represents the values. Its key parameters are- annot, cmap
+
+- cluster map
+cluster map is a type of heatmap that perform hierarchical clustering, where the pattern reveals based on the similarity.
+
+- pair grid
+pair grid is a pair plot type technique that goes beyond the pairplot and provide the more customization to the analyst.
+
+- facet grid
+
+
+- regression plots
