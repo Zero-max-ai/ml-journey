@@ -34,6 +34,25 @@ rugplot is a technique where we visualize the datapoints on graph using sticks, 
 
 #### Bar, Count, Violin, Strip, Swarm, Box
 
+- bar plot
+bar plot is a technique where the histogram bar is plotted on the basis of the category adn the height of the bar is the frequency of the category.
+
+- count plot
+count plot is also a similar technique to bar plot which display the histogram plot on the graph as per the frequency of the particular category.
+
+- violin plot
+violin plot is a technique where the datapoints are draw on the graph by categorical and kdeplot (both way) format. As the more dense or concentrated area considered as trend nature.
+
+- strip plot
+strip plot is a technique where the datapoints are plotted like scatter but they tend to overlap each other.
+
+- swarm plot
+swarm plot is a similar technique like stripplot and the main difference that differentiate both of them is that the datapoints in swarm plot does not overlap each other.
+
+- box plot
+box plot is a technique to statistically summerize about the dataset by identifing the median, IQR, skewnees, outliers of the datapoints, where as the violin plot is more detailed version of it!.
+
+
 ### Matrix Plotting
 
 ### Heatmaps, cluster map, pair grid, facet grid, regression plots
